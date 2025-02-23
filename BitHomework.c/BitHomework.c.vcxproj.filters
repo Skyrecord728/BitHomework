@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Bit.c">
+    <ClCompile Include="1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

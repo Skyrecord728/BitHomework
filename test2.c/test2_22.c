@@ -41,7 +41,8 @@ int main() {
 	int right = sz - 1;
 	int left = 0;
 	while (left <= right) {
-	int mid = (left + right) / 2;
+	/*int mid = (left + right) / 2;*/
+		int mid = left + (right - left) / 2;
 		if (n > arr[mid]) {
 			left = mid + 1;
 		}
