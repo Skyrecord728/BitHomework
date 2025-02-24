@@ -1,3 +1,13 @@
 ﻿  2.c
-D:\vs\BitHomework.c\2.c(38,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-  BitHomework.c.vcxproj -> D:\vs\BitHomework.c\x64\Debug\BitHomework.c.exe
+D:\vs\BitHomework.c\2.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\vs\BitHomework.c\2.c(60,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+      D:\vs\BitHomework.c\2.c(60,10):
+      占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+      D:\vs\BitHomework.c\2.c(60,10):
+      缺失的可变参数 2 为格式字符串“%s”所需
+      D:\vs\BitHomework.c\2.c(60,10):
+      此参数用作缓冲区大小
+  
+  3.c
+D:\vs\BitHomework.c\3.c(25,11): error C2059: 语法错误:“)”
+  正在生成代码...

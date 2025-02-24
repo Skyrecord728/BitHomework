@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\vs\\BitHomework.c\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F42AC6B6-119B-4695-8B97-F9E25634C932}|BitHomework.c.vcxproj|D:\\vs\\BitHomework.c\\2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F42AC6B6-119B-4695-8B97-F9E25634C932}|BitHomework.c.vcxproj|solutionrelative:2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F42AC6B6-119B-4695-8B97-F9E25634C932}|BitHomework.c.vcxproj|D:\\vs\\BitHomework.c\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F42AC6B6-119B-4695-8B97-F9E25634C932}|BitHomework.c.vcxproj|solutionrelative:1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F42AC6B6-119B-4695-8B97-F9E25634C932}|BitHomework.c.vcxproj|D:\\vs\\BitHomework.c\\3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F42AC6B6-119B-4695-8B97-F9E25634C932}|BitHomework.c.vcxproj|solutionrelative:3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "2.c",
-              "DocumentMoniker": "D:\\vs\\BitHomework.c\\2.c",
-              "RelativeDocumentMoniker": "2.c",
-              "ToolTip": "D:\\vs\\BitHomework.c\\2.c",
-              "RelativeToolTip": "2.c",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-23T02:13:55.939Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "1.c",
               "DocumentMoniker": "D:\\vs\\BitHomework.c\\1.c",
               "RelativeDocumentMoniker": "1.c",
               "ToolTip": "D:\\vs\\BitHomework.c\\1.c",
               "RelativeToolTip": "1.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-22T13:19:53.529Z"
+              "WhenOpened": "2025-02-24T01:51:18.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "3.c",
+              "DocumentMoniker": "D:\\vs\\BitHomework.c\\3.c",
+              "RelativeDocumentMoniker": "3.c",
+              "ToolTip": "D:\\vs\\BitHomework.c\\3.c",
+              "RelativeToolTip": "3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-23T12:21:44.134Z",
+              "EditorCaption": ""
             }
           ]
         }
