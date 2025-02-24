@@ -34,28 +34,43 @@
 //	return 0;
 //}
 #include <stdio.h>
+//int main() {
+//	int arr[] = { 1,2,3,4,5,6,7,8,9,10 };
+//	int n = 1;
+//	int sz = sizeof(arr) / sizeof(arr[0]);
+//	int right = sz - 1;
+//	int left = 0;
+//	while (left <= right) {
+//	/*int mid = (left + right) / 2;*/
+//		int mid = left + (right - left) / 2;
+//		if (n > arr[mid]) {
+//			left = mid + 1;
+//		}
+//		else if (n < arr[mid]) {
+//			right = mid - 1;
+//		}
+//		else {
+//			printf("找到了，下标为:%d\n", mid);
+//			break;
+//		}
+//	}
+//	if (left > right) {
+//		printf("找不到");
+//	}
+//	return 0;
+//} 
+//x,y形参
+void swap(int* px, int* py) {
+	int z = *px;
+	*px = *py;
+	*py = z;
+}//a,b实参
 int main() {
-	int arr[] = { 1,2,3,4,5,6,7,8,9,10 };
-	int n = 1;
-	int sz = sizeof(arr) / sizeof(arr[0]);
-	int right = sz - 1;
-	int left = 0;
-	while (left <= right) {
-	/*int mid = (left + right) / 2;*/
-		int mid = left + (right - left) / 2;
-		if (n > arr[mid]) {
-			left = mid + 1;
-		}
-		else if (n < arr[mid]) {
-			right = mid - 1;
-		}
-		else {
-			printf("找到了，下标为:%d\n", mid);
-			break;
-		}
-	}
-	if (left > right) {
-		printf("找不到");
-	}
+	int a = 10;
+	int* p1 = &a;
+	int b = 20;
+	int* p2 = &b;
+	swap(&a,&b);
+	printf("%d", a);
 	return 0;
 }
