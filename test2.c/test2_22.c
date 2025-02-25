@@ -60,6 +60,7 @@
 //	return 0;
 //} 
 //x,y形参
+<<<<<<< HEAD
 //void swap(int* px, int* py) {
 //	int z = *px;
 //	*px = *py;
@@ -128,6 +129,20 @@ int main() {
 		}
 	}
 	printf("%d", max);
+=======
+void swap(int* px, int* py) {
+	int z = *px;
+	*px = *py;
+	*py = z;
+}//a,b实参
+int main() {
+	int a = 10;
+	int* p1 = &a;
+	int b = 20;
+	int* p2 = &b;
+	swap(&a,&b);
+	printf("%d", a);
+>>>>>>> bf1c84fb143ee7383515f21a5529a1a3059349ec
 	return 0;
 
 }

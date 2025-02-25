@@ -22,9 +22,15 @@
               "Title": "test2_22.c",
               "DocumentMoniker": "D:\\vs\\test2.c\\test2_22.c",
               "RelativeDocumentMoniker": "test2_22.c",
+<<<<<<< HEAD
               "ToolTip": "D:\\vs\\test2.c\\test2_22.c",
               "RelativeToolTip": "test2_22.c",
               "ViewState": "AgIAABUAAAAAAAAAAAAkwIQAAAABAAAAAAAAAA==",
+=======
+              "ToolTip": "D:\\vs\\test2.c\\test2_22.c*",
+              "RelativeToolTip": "test2_22.c*",
+              "ViewState": "AgIAACcAAAAAAAAAAAAkwEgAAAAIAAAAAAAAAA==",
+>>>>>>> bf1c84fb143ee7383515f21a5529a1a3059349ec
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-22T08:50:20.835Z",
               "EditorCaption": ""

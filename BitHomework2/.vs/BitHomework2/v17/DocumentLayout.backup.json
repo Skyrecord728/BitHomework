@@ -24,7 +24,11 @@
               "RelativeDocumentMoniker": "1.c",
               "ToolTip": "D:\\vs\\BitHomework2\\1.c",
               "RelativeToolTip": "1.c",
+<<<<<<< HEAD
               "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
+>>>>>>> bf1c84fb143ee7383515f21a5529a1a3059349ec
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-23T08:34:54.486Z",
               "EditorCaption": ""
